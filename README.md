@@ -1,2 +1,2 @@
 
-Implement a airline reservation system using prolog
+Implement a airline system using prolog
